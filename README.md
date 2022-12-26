@@ -1,0 +1,1 @@
+Repository for mods I've made that can be applied to the [Unofficial Homestuck Collection](https://github.com/Bambosh/unofficial-homestuck-collection)
